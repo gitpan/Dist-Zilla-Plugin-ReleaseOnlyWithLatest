@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution Dist-Zilla-Plugin-ReleaseOnlyWithLatest,
-version 0.001:
+version 0.002:
 
   Release the distribution only if specific modules are at latest state
 

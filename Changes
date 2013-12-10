@@ -3,8 +3,15 @@ Changes from 1740-02-26 00:00:00 +0000 to present.
 ==================================================
 
 ------------------------------------------
-version 0.001 at 2013-12-10 00:40:37 +0000
+version 0.002 at 2013-12-10 02:23:40 +0000
 ------------------------------------------
+
+  Change: c886715f8f6ba8f3107c2b6c23959109721e7104
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-12-10 03:23:02 +0000
+
+    Hups, should require dzil, good tester find this out ;) (travis
+    doesnt of course... mmmhhh) 
 
   Change: 8cd6c07c8e156459bcf73545a98a6e991922eb68
   Author: Torsten Raudssus <torsten@raudss.us>

@@ -3,7 +3,7 @@ BEGIN {
   $Dist::Zilla::Plugin::ReleaseOnlyWithLatest::AUTHORITY = 'cpan:GETTY';
 }
 {
-  $Dist::Zilla::Plugin::ReleaseOnlyWithLatest::VERSION = '0.001';
+  $Dist::Zilla::Plugin::ReleaseOnlyWithLatest::VERSION = '0.002';
 }
 # ABSTRACT: Release the distribution only if specific modules are at latest state
 
@@ -89,7 +89,7 @@ Dist::Zilla::Plugin::ReleaseOnlyWithLatest - Release the distribution only if sp
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 SYNOPSIS
 

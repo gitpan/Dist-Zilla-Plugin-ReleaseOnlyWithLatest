@@ -26,6 +26,7 @@
       },
       "runtime" : {
          "requires" : {
+            "Dist::Zilla" : "0",
             "File::Temp" : "0.22",
             "LWP::Simple" : "0",
             "Module::Data" : "0",
@@ -49,7 +50,7 @@
          "web" : "https://github.com/Getty/p5-dist-zilla-plugin-releaseonlywithlatest"
       }
    },
-   "version" : "0.001",
+   "version" : "0.002",
    "x_Dist_Zilla" : {
       "perl" : {
          "version" : "5.018000"
