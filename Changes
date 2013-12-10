@@ -1,0 +1,30 @@
+==================================================
+Changes from 1740-02-26 00:00:00 +0000 to present.
+==================================================
+
+------------------------------------------
+version 0.001 at 2013-12-10 00:40:37 +0000
+------------------------------------------
+
+  Change: 8cd6c07c8e156459bcf73545a98a6e991922eb68
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-12-10 01:26:12 +0000
+
+    Added travis config and load test 
+
+  Change: 0aa969fe6ab1ac08a27773f3e00dee06d7bc9864
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-12-10 01:23:06 +0000
+
+    First functional release, base features (i dont know if it needs
+    more...) 
+
+  Change: 45c249b6f5412f32738cf12fad9e1e64395b7da2
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-12-09 23:50:34 +0000
+
+    initial commit 
+
+================
+End of releases.
+================
